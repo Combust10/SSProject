@@ -2,7 +2,7 @@
 
 A simple yet powerful text editor built using Python and Tkinter. This project was developed as part of a System Software course by a team of students. The text editor includes features like file handling, text formatting, find/replace functionality, and text-to-speech conversion.
 
-![Text Editor Screenshot](screenshot.png) <!-- Add a screenshot if available -->
+![Text Editor Screenshot](https://i.postimg.cc/ryh2mWWQ/image-2025-03-14-155305415.png) <!-- Add a screenshot if available -->
 
 ---
 
